@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Haute Haute Food & Master Craftsmanship — Nectarineyum</title>
-  <meta name="description" content="Dedicated to uncompromising artisanal perfection in food, crafted with hand-selected materials and bespoke precision at 181 Mercer Street.">
+  <title>Haute Artisanal Gastronomy & Heirloom Stone Fruit Harvests — Nectarineyum</title>
+  <meta name="description" content="An extraordinary culinary celebration of heirloom stone fruits, small-batch artisanal preserves, seasonal orchard harvests, and private tasting salon hospitality at 181 Mercer Street.">
   <link rel="canonical" href="https://nectarineyum.com/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -55,7 +55,7 @@
     <nav class="drawer-nav" aria-label="Mobile Navigation">
       <a href="/" class="drawer-link active">Home</a>
       <a href="/about.html" class="drawer-link">The Atelier &amp; Craft</a>
-      <a href="/collection.html" class="drawer-link">Curated Food Collection</a>
+      <a href="/collection.html" class="drawer-link">Orchard Harvest & Confectionery Collection</a>
       <a href="/blog.html" class="drawer-link">Sartorial Treatises</a>
       <a href="/contact.html" class="drawer-link">Private Concierge</a>
     </nav>
@@ -73,16 +73,16 @@
     <div class="container">
       <div style="display: grid; grid-template-columns: 1.2fr 1fr; gap: 3.5rem; align-items: center;">
         <div>
-          <span class="hero-badge">Artisanal Food &bull; Bespoke Excellence</span>
-          <h1 style="margin-bottom: 1.2rem;">The Apex of Haute Food & Master Craftsmanship</h1>
-          <p class="lead" style="margin-bottom: 2rem;">Dedicated to uncompromising artisanal perfection in food, crafted with hand-selected materials and bespoke precision at 181 Mercer Street.</p>
+          <span class="hero-badge">Haute Gastronomy &bull; Farm-to-Table Provenance</span>
+          <h1 style="margin-bottom: 1.2rem;">The Apex of Artisanal Gastronomy & Heirloom Stone Fruit Harvests</h1>
+          <p class="lead" style="margin-bottom: 2rem;">An extraordinary culinary celebration of heirloom stone fruits, small-batch artisanal preserves, seasonal orchard harvests, and private tasting salon hospitality at 181 Mercer Street.</p>
           <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
             <a href="/collection.html" class="btn btn-gold">Explore Collection</a>
             <a href="/about.html" class="btn btn-outline-white">The Mercer St Atelier</a>
           </div>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-lg); border: 1px solid rgba(255,255,255,0.15);">
-          <img src="/assets/images/about_master_horologist_at_bench.jpg" alt="Nectarineyum flagship showcase" style="width: 100%; height: auto;">
+          <img src="/assets/images/hero_peach_culinary.jpg" alt="Nectarineyum flagship showcase" style="width: 100%; height: auto;">
         </div>
       </div>
     </div>
@@ -106,7 +106,7 @@
           </div>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/atelier_watchmaker_loupe_bench.jpg" alt="Master artisan examining tolerances at the Mercer Street atelier">
+          <img src="/assets/images/lookbook_peach_table.jpg" alt="Master artisan examining tolerances at the Mercer Street atelier">
         </div>
       </div>
     </div>
@@ -125,23 +125,23 @@
       <div class="grid-4">
         <div class="pillar-card">
           <div class="pillar-icon">◈</div>
-          <h3>Master Artisan Calibration</h3>
-          <p>Each food piece is meticulously shaped and inspected by senior guild craftsmen with micron-level tolerances.</p>
+          <h3>Orchard Terroir Provenance</h3>
+          <p>Direct harvest partnerships with heirloom stone fruit orchards and organic growers within 90 miles of Manhattan.</p>
         </div>
         <div class="pillar-card">
           <div class="pillar-icon">◈</div>
-          <h3>Certified Material Provenance</h3>
-          <p>Sourced from historic European ateliers with serialized certificates of authenticity and origin.</p>
+          <h3>Copper-Kettle Reduction</h3>
+          <p>Low-temperature micro-batch simmering preserving natural pectin, vibrant fruit acidity, and volatile botanical aromatics.</p>
         </div>
         <div class="pillar-card">
           <div class="pillar-icon">◈</div>
-          <h3>Precision Structural Integrity</h3>
-          <p>Engineered to withstand demanding daily use while developing an organic, lustrous patina over decades.</p>
+          <h3>Zero Synthetic Additives</h3>
+          <p>Crafted strictly with pure unrefined raw sugars, organic citrus pectin, and sun-ripened organic botanicals.</p>
         </div>
         <div class="pillar-card">
           <div class="pillar-icon">◈</div>
-          <h3>Bespoke Patron Customization</h3>
-          <p>Personalized dimensional calibrations, monogramming, and private commission appointments at 181 Mercer Street.</p>
+          <h3>Atelier Tasting Salon</h3>
+          <p>Private seasonal degustation menus, preserve pairings, and bespoke pastry commissions hosted at our Mercer Street salon.</p>
         </div>
       </div>
     </div>
@@ -160,7 +160,7 @@
       <div class="grid-3">
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/author_marc_andre_berner.jpg" alt="Author Marc Andre Berner">
+            <img src="/assets/images/recipe_peach_tart.jpg" alt="Recipe Peach Tart">
             <span class="card-tag">Atelier Edition</span>
           </div>
           <div class="card-body">
@@ -176,7 +176,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_chronograph_coupling_column_wheel_vs_cam.jpg" alt="Blog Chronograph Coupling Column Wheel Vs Cam">
+            <img src="/assets/images/recipe_savory_peach.jpg" alt="Recipe Savory Peach">
             <span class="card-tag">Heritage Reserve</span>
           </div>
           <div class="card-body">
@@ -192,7 +192,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_perpetual_calendar_mechanical_memory.jpg" alt="Blog Perpetual Calendar Mechanical Memory">
+            <img src="/assets/images/recipe_peach_cocktail.jpg" alt="Recipe Peach Cocktail">
             <span class="card-tag">Classic Reserve</span>
           </div>
           <div class="card-body">
@@ -208,7 +208,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_silicon_hairspring_isochronism.jpg" alt="Blog Silicon Hairspring Isochronism">
+            <img src="/assets/images/about_peach_orchard.jpg" alt="About Peach Orchard">
             <span class="card-tag">Atelier Exclusive</span>
           </div>
           <div class="card-body">
@@ -224,7 +224,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_vintage_restoration_archival_conservation.jpg" alt="Blog Vintage Restoration Archival Conservation">
+            <img src="/assets/images/blog_preserves_science.jpg" alt="Blog Preserves Science">
             <span class="card-tag">Patron Edition</span>
           </div>
           <div class="card-body">
@@ -240,7 +240,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/collection_monopusher_chronograph.jpg" alt="Collection Monopusher Chronograph">
+            <img src="/assets/images/blog_heirloom_botany.jpg" alt="Blog Heirloom Botany">
             <span class="card-tag">SoHo Signature</span>
           </div>
           <div class="card-body">
@@ -267,18 +267,18 @@
       <div class="grid-2">
         <div>
           <div class="section-subtitle">Material Innovation</div>
-          <h2>Material Science & Food Physics</h2>
-          <p>We combine timeless hand-finishing traditions with modern material physics to ensure every food piece achieves ultimate tactile elegance.</p>
-          <p>Our quality assurance protocols guarantee that raw components meet rigorous international standards for purity, tensile resilience, and aesthetic permanence.</p>
+          <h2>Orchard Agronomy & Pectin Crystallography</h2>
+          <p>We harvest tree-ripened nectarines, peaches, and heritage stone fruits at peak Brix sweetness, evaluating natural brix density and essential terpene balance before kitchen prep.</p>
+          <p>In our Mercer Street test kitchen, preserves and confectionery are hand-skimmed in traditional French copper cauldrons to guarantee uniform thermal convection and crystal-clear fruit suspension.</p>
           <div class="card-specs" style="border: none; margin: 1.5rem 0;">
-            <span>◈ <strong>100% Certified Noble Grade</strong></span>
-            <span>◈ <strong>Micron-Level Precision</strong></span>
-            <span>◈ <strong>Heirloom Longevity Standard</strong></span>
+            <span>◈ <strong>100% Tree-Ripened Heirloom Harvest</strong></span>
+            <span>◈ <strong>French Copper Kettle Reduction</strong></span>
+            <span>◈ <strong>Certified Organic Terroir</strong></span>
           </div>
           <a href="/blog/material-provenance-and-fiber-crystallography.html" class="btn btn-outline btn-sm">Read Material Science Treatise</a>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/collection_nautic_diver_bezel.jpg" alt="Material inspection and quality verification at the workshop">
+          <img src="/assets/images/blog_pastry_guide.jpg" alt="Material inspection and quality verification at the workshop">
         </div>
       </div>
     </div>
@@ -289,7 +289,7 @@
     <div class="container">
       <div class="grid-2">
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/collection_regulator_dress_watch.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
+          <img src="/assets/images/blog_peach_cocktails.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
         </div>
         <div>
           <span class="hero-badge">Flagship Fitting Suite</span>
@@ -333,8 +333,8 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>Durability Tolerance Threshold</strong></td>
-              <td><strong>55,000+ Testing Cycles Passed</strong></td>
+              <td><strong>Brix Sugar-Pectin Balance</strong></td>
+              <td><strong>65.5° Brix Optimal Density</strong></td>
               <td>42 – 48 Stitches / cm²</td>
               <td>28 – 32 Stitches / cm²</td>
             </tr>
@@ -387,23 +387,23 @@
       <div class="grid-4">
         <div class="step-card">
           <div class="step-number">01</div>
-          <h3>White Glove Handling</h3>
-          <p>Handle fine artisanal pieces with clean cotton gloves and store within lined protective cases.</p>
+          <h3>Chilled Preservation</h3>
+          <p>Store opened preserves and culinary compotes refrigerated at 4°C to safeguard raw botanical aromatics.</p>
         </div>
         <div class="step-card">
           <div class="step-number">02</div>
-          <h3>Controlled Atmospheric Humidity</h3>
-          <p>Maintain storage areas at 20-22°C with 50-60% relative humidity to prevent material fatigue.</p>
+          <h3>Clean Wooden Service Spoon</h3>
+          <p>Always use a clean wooden or silver spoon to prevent introducing moisture or bacteria into airtight preserve jars.</p>
         </div>
         <div class="step-card">
           <div class="step-number">03</div>
-          <h3>Annual Atelier Servicing</h3>
-          <p>Return pieces to 181 Mercer Street annually for complimentary inspection, tuning, and surface polish.</p>
+          <h3>Dark Pantry Storage</h3>
+          <p>Keep sealed artisanal jars in a cool, dark larder below 20°C away from direct solar radiation to protect vibrant fruit carotenoids.</p>
         </div>
         <div class="step-card">
           <div class="step-number">04</div>
-          <h3>Bespoke Conservation Advisory</h3>
-          <p>Consult our Mercer Street master curators for customized preservation protocols.</p>
+          <h3>Seasonal Degustation Booking</h3>
+          <p>Reserve private tasting appointments at 181 Mercer Street 14 days in advance via our concierge.</p>
         </div>
       </div>
     </div>
@@ -422,7 +422,7 @@
       <div class="grid-3">
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/collection_tourbillon_perpetual.jpg" alt="Material Provenance and Fiber Crystallography">
+            <img src="/assets/images/blog_savory_gastronomy.jpg" alt="Material Provenance and Fiber Crystallography">
             <span class="card-tag">Textile Science</span>
           </div>
           <div class="card-body">
@@ -434,7 +434,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/concierge_bespoke_commission.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
+            <img src="/assets/images/blog_ancient_history.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
             <span class="card-tag">Precision Engineering</span>
           </div>
           <div class="card-body">
@@ -446,7 +446,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/craft_anglage_hand_beveling.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
+            <img src="/assets/images/hero_twilight_tasting_dinner.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
             <span class="card-tag">Anatomical Physics</span>
           </div>
           <div class="card-body">
@@ -582,7 +582,7 @@
         <div class="footer-col">
           <div class="footer-brand">◈ Nectarineyum</div>
           <p class="footer-desc">
-            The benchmark of haute food & master craftsmanship. Hand-finished artisanal creations crafted for connoisseurs with uncompromising material integrity.
+            The benchmark of artisanal gastronomy & heirloom stone fruit harvests. Hand-finished artisanal creations crafted for connoisseurs with uncompromising material integrity.
           </p>
           <div class="footer-contact-item"><strong>Address:</strong> 181 Mercer Street, New York, NY 10012, United States</div>
           <div class="footer-contact-item"><strong>Phone:</strong> +1-888-777-5845</div>

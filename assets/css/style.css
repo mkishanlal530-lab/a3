@@ -1,10 +1,10 @@
 /* Master Design System — nectarineyum (Enhanced High Contrast & Full Legibility) */
 :root {
-  --color-primary: #111827;
-  --color-primary-dark: #0B0F19;
-  --color-dew: #3B82F6;
-  --color-dew-dark: #3B82F6;
-  --color-gold: #D4AF37;
+  --color-primary: #201610;
+  --color-primary-dark: #120B07;
+  --color-dew: #D96B27;
+  --color-dew-dark: #D96B27;
+  --color-gold: #E5A93C;
   --color-bg: #F8F9FA;
   --color-surface: #FFFFFF;
   --color-text-main: #1E2022;

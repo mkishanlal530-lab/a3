@@ -1,15 +1,15 @@
 # Design Registry — Nectarineyum
 
 **Brand:** Nectarineyum  
-**Niche:** Haute Food & Master Craftsmanship  
+**Niche:** Artisanal Gastronomy & Heirloom Stone Fruit Harvests  
 **Address:** 181 Mercer Street, New York, NY 10012, United States  
 **Phone:** +1-888-777-5845  
 
 ## Colors
-- Primary: `#111827`
-- Dark: `#0B0F19`
-- Accent: `#3B82F6`
-- Gold: `#D4AF37`
+- Primary: `#201610`
+- Dark: `#120B07`
+- Accent: `#D96B27`
+- Gold: `#E5A93C`
 
 ## Standards Compliance
 - Exactly 1 Header, 1 Drawer
